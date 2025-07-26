@@ -1,0 +1,12 @@
+2025-07-26 00:13:00 - ENTRY_CREATE: New folder
+2025-07-26 00:13:07 - ENTRY_DELETE: New folder
+2025-07-26 00:13:07 - ENTRY_CREATE: hello world
+2025-07-26 00:13:32 - ENTRY_CREATE: hello world - Copy
+2025-07-26 00:13:32 - ENTRY_MODIFY: hello world - Copy
+2025-07-26 00:13:39 - ENTRY_DELETE: hello world - Copy
+2025-07-26 00:39:43 - Event: ENTRY_CREATE on file: New folder
+2025-07-26 00:39:49 - Event: ENTRY_DELETE on file: New folder
+2025-07-26 00:39:49 - Event: ENTRY_CREATE on file: yoyo
+2025-07-26 00:41:23 - Event: ENTRY_DELETE on file: yoyo
+2025-07-26 00:42:16 - Event: ENTRY_MODIFY on file: hello world
+2025-07-26 00:42:18 - Event: ENTRY_MODIFY on file: hello world

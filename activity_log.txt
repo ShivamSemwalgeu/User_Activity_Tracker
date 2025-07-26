@@ -1,0 +1,9 @@
+2025-07-26 10:35:21 - Active Window: UserActivityTracker – ActivityTracker.java
+2025-07-26 10:35:25 - Active Window: WhatsApp
+2025-07-26 10:35:26 - Active Window: UserActivityTracker – ActivityTracker.java
+2025-07-26 10:35:28 - Active Window: Java Project Ideas - Google Chrome
+2025-07-26 10:35:29 - Active Window: UserActivityTracker – ActivityTracker.java
+2025-07-26 10:35:32 - Active Window: Untitled - Personal - Microsoft? Edge
+2025-07-26 10:35:33 - Active Window: YouTube - Personal - Microsoft? Edge
+2025-07-26 10:35:39 - Active Window: (48) YouTube - Personal - Microsoft? Edge
+2025-07-26 10:35:42 - Active Window: 
