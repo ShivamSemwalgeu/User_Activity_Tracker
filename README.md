@@ -1,4 +1,6 @@
 <h2>User Activity Tracker – Java Project </h2>
+<h3> AUTHOR : SHIVAM SEMWAL
+</h3>
 
 Developed a system-level application to monitor and log user activities on Windows using Java and JNA.
 
@@ -13,7 +15,3 @@ Used multi-threading for concurrent tracking of system activities without blocki
 Designed for lightweight background operation and extensibility.
 
 
-
----
-
-Let me know if you'd like a shorter version, a bullet point for LinkedIn, or if you want to add technologies like Maven, IntelliJ, or JavaFX.
